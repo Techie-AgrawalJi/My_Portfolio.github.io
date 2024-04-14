@@ -34,7 +34,7 @@ abtbtn.addEventListener("click", () => {
   divnav.querySelector(".img1").classList.remove("img1");
   divnav.querySelector(".img1update").append(a0);
   a0.appendChild(img0);
-  a0.href = "portfolio.html";
+  a0.href = "index.html";
   img0.setAttribute("class", "arrowimg");
   img0.src = "back.png";
   document.querySelector(".info").innerHTML = "Know About Me";
@@ -63,7 +63,7 @@ prac.addEventListener("click", () => {
   divnav.querySelector(".img1").classList.remove("img1");
   divnav.querySelector(".img1update").append(a0);
   a0.appendChild(img0);
-  a0.href = "portfolio.html";
+  a0.href = "index.html";
   img0.setAttribute("class", "arrowimg");
   img0.src = "back.png";
   document.querySelector(".info").innerHTML =
@@ -141,7 +141,7 @@ goalbtn.addEventListener("click", () => {
   divnav.querySelector(".img1").classList.remove("img1");
   divnav.querySelector(".img1update").append(a0);
   a0.appendChild(img0);
-  a0.href = "portfolio.html";
+  a0.href = "index.html";
   img0.setAttribute("class", "arrowimg");
   img0.src = "back.png";
   document.querySelector(".info").innerHTML = "My Goal-Cyber Security Engineer";
