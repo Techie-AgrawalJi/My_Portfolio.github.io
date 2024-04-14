@@ -67,7 +67,7 @@ prac.addEventListener("click", () => {
   img0.setAttribute("class", "arrowimg");
   img0.src = "back.png";
   document.querySelector(".info").innerHTML =
-    "Click on the images to View Practices";
+    "View Practices";
   sectwo.querySelector(".practices").remove();
   sectwo.querySelector(".goal").remove();
   sectwo.querySelector(".about").classList.remove("about");
