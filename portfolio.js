@@ -115,10 +115,10 @@ prac.addEventListener("click", () => {
   img2.src = "cafe.png";
   img3.src = "Hanumanji.png";
   img4.src = "RPG.png";
-  a1.href = "https://agrawalji280203.github.io/FCCform.github.io/";
-  a3.href = "https://agrawalji280203.github.io/tribute_page.github.io/";
-  a2.href = "https://agrawalji280203.github.io/Cafe.github.io/";
-  a4.href = "https://agrawalji280203.github.io/RPG.github.io/";
+  a1.href = "https://techie-agrawalji.github.io/FCCform.github.io/";
+  a3.href = "https://techie-agrawalji.github.io/tribute_page.github.io/";
+  a2.href = "https://techie-agrawalji.github.io/Cafe.github.io/";
+  a4.href = "https://techie-agrawalji.github.io/RPG.github.io/";
   a1.appendChild(img1);
   a2.appendChild(img2);
   a3.appendChild(img3);
