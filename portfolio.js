@@ -112,25 +112,25 @@ prac.addEventListener("click", () => {
     img1,
     "form.png",
     a1,
-    "https://agrawalji280203.github.io/FCCform.github.io/"
+    "https://Techie-AgrawalJi.github.io/FCCform.github.io/"
   );
   setvalues(
     img2,
     "cafe.png",
     a2,
-    "https://agrawalji280203.github.io/Cafe.github.io/"
+    "https://Techie-AgrawalJi.github.io/Cafe.github.io/"
   );
   setvalues(
     img3,
     "Hanumanji.png",
     a3,
-    "https://agrawalji280203.github.io/tribute_page.github.io/"
+    "https://Techie-AgrawalJi.github.io/tribute_page.github.io/"
   );
   setvalues(
     img4,
     "RPG.png",
     a4,
-    "https://agrawalji280203.github.io/RPG.github.io/"
+    "https://Techie-AgrawalJi.github.io/RPG.github.io/"
   );
 });
 let goals = document.querySelector(".goal");
